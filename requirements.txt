@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+nltk
+seaborn
+string
+wordcloud
+collections
+scikit-learn
+xgboost
+streamlite
